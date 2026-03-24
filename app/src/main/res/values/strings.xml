@@ -2,4 +2,5 @@
     <string name="app_name">EXERCISE1_PART1</string>
     <string name="click_button_to_see_department_chair">Click button to see Department Chair</string>
     <string name="department_chair">Department Chair</string>
+    <string name="department_chairname">"Department Chair: "</string>
 </resources>
